@@ -15,10 +15,10 @@ I am passionate about software development and machine learning. My portfolio in
 
 ## Projects
 
-### [Project 1: Diabetes Prediction][(link-to-project)](https://github.com/garvit019/Diabetes-prediction)
+### [Project 1: Diabetes Prediction][https://github.com/garvit019/Diabetes-prediction]
 A machine learning project that predicts patients' risk of having diabetes based on a dataset. Implemented regression models to improve early detection and enhance diabetes detection results.
 
-### [Project 2: Retail Data Analysis][(link-to-project)](https://github.com/garvit019/Customer-Segmentation)
+### [Project 2: Retail Data Analysis][https://github.com/garvit019/Customer-Segmentation]
 Analyzed a retail dataset using machine learning concepts, implementing an end-to-end pipeline to gain insights and perform customer segmentation.
 
 ## Skills
